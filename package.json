@@ -4,7 +4,8 @@
   "description": "The application is a note-taking app — similar to Evernote or Google Keep. It allows to format notes with Markdown and include pictures. Packaged as a Docker image and deployed to Kubernetes.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
   },
   "repository": {
     "type": "git",
