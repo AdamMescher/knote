@@ -1,6 +1,6 @@
 {
   "name": "knote",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "The application is a note-taking app — similar to Evernote or Google Keep. It allows to format notes with Markdown and include pictures. Packaged as a Docker image and deployed to Kubernetes.",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/AdamMescher/knote.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Adam Mescher",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/AdamMescher/knote/issues"
